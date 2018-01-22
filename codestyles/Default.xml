@@ -13,8 +13,10 @@
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="BLANK_LINES_AROUND_FIELD_IN_INTERFACE" value="1" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
     <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
+    <option name="METHOD_PARAMETERS_WRAP" value="1" />
     <option name="WRAP_LONG_LINES" value="true" />
     <option name="METHOD_ANNOTATION_WRAP" value="1" />
     <option name="WRAP_ON_TYPING" value="0" />
