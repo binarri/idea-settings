@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="rsa" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
