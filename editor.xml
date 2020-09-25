@@ -13,7 +13,7 @@
         <option value="JAVA.java.implicit.types" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="JavaLens" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
