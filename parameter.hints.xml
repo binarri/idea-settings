@@ -1,7 +1,8 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <option id="SHOW_PARAMETER_HINT" value="false" />
-    <option id="SHOW_FUNCTION_HINT" value="true" />
+    <option id="SHOW_LAMBDA_IMPLICIT_PARAMETER_RECEIVER" value="false" />
+    <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
     <disabledLanguages>
       <language id="JAVA" />
       <language id="TypeScript" />

@@ -13,6 +13,7 @@
         <option value="JAVA.java.implicit.types" />
       </set>
     </option>
+    <option name="enabled" value="false" />
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="JavaCodeFoldingSettings">
